@@ -1,4 +1,4 @@
-package com.example.foodtwo;
+package com.example.foodtwo.Bomb;
 
 public class FoodInfo{
 //    private String touxiang;//图片
